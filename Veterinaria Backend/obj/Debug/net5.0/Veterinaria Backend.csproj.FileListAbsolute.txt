@@ -1,0 +1,96 @@
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.deps.json
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\ref\Veterinaria Backend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.pdb
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.AssemblyReference.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfoInputs.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfo.cs
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\ref\Veterinaria Backend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.deps.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\ref\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.AssemblyReference.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfoInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfo.cs
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.CoreCompileInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\ref\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.AssemblyReference.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfoInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfo.cs
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.CoreCompileInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\ref\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.deps.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\ref\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.pdb
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.deps.json
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\ref\Veterinaria Backend.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.pdb
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfo.cs
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\ref\Veterinaria Backend.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.pdb
+C:\Users\Joaquin\Desktop\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.AssemblyReference.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\ref\Veterinaria Backend.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.pdb
+C:\Users\Joaquin\Desktop\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.deps.json
+C:\Users\Joaquin\Desktop\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\ref\Veterinaria Backend.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.deps.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\ref\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.AssemblyReference.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfoInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfo.cs
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.CoreCompileInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\ref\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.deps.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\ref\Veterinaria Backend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.AssemblyReference.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfoInputs.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfo.cs
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.CoreCompileInputs.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\ref\Veterinaria Backend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.deps.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\ref\Veterinaria Backend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.AssemblyReference.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfoInputs.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfo.cs
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.CoreCompileInputs.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\ref\Veterinaria Backend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.pdb

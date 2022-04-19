@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Proyecto FINAL PII\\VeterinariaTPI1.6v2\\VeterinariaTPI1.6\\VeterinariaTPI3\\VeterinariaTPI\\VeterinariaWebAPI\\VeterinariaWebAPI.csproj": {}
+  },
+  "projects": {
+    "E:\\Proyecto FINAL PII\\VeterinariaTPI1.6v2\\VeterinariaTPI1.6\\VeterinariaTPI3\\VeterinariaTPI\\Veterinaria Backend\\Veterinaria Backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Proyecto FINAL PII\\VeterinariaTPI1.6v2\\VeterinariaTPI1.6\\VeterinariaTPI3\\VeterinariaTPI\\Veterinaria Backend\\Veterinaria Backend.csproj",
+        "projectName": "Veterinaria Backend",
+        "projectPath": "E:\\Proyecto FINAL PII\\VeterinariaTPI1.6v2\\VeterinariaTPI1.6\\VeterinariaTPI3\\VeterinariaTPI\\Veterinaria Backend\\Veterinaria Backend.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyecto FINAL PII\\VeterinariaTPI1.6v2\\VeterinariaTPI1.6\\VeterinariaTPI3\\VeterinariaTPI\\Veterinaria Backend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Proyecto FINAL PII\\VeterinariaTPI1.6v2\\VeterinariaTPI1.6\\VeterinariaTPI3\\VeterinariaTPI\\VeterinariaWebAPI\\VeterinariaWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Proyecto FINAL PII\\VeterinariaTPI1.6v2\\VeterinariaTPI1.6\\VeterinariaTPI3\\VeterinariaTPI\\VeterinariaWebAPI\\VeterinariaWebAPI.csproj",
+        "projectName": "VeterinariaWebAPI",
+        "projectPath": "E:\\Proyecto FINAL PII\\VeterinariaTPI1.6v2\\VeterinariaTPI1.6\\VeterinariaTPI3\\VeterinariaTPI\\VeterinariaWebAPI\\VeterinariaWebAPI.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyecto FINAL PII\\VeterinariaTPI1.6v2\\VeterinariaTPI1.6\\VeterinariaTPI3\\VeterinariaTPI\\VeterinariaWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Proyecto FINAL PII\\VeterinariaTPI1.6v2\\VeterinariaTPI1.6\\VeterinariaTPI3\\VeterinariaTPI\\Veterinaria Backend\\Veterinaria Backend.csproj": {
+                "projectPath": "E:\\Proyecto FINAL PII\\VeterinariaTPI1.6v2\\VeterinariaTPI1.6\\VeterinariaTPI3\\VeterinariaTPI\\Veterinaria Backend\\Veterinaria Backend.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

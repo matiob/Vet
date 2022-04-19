@@ -1,0 +1,496 @@
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.AssemblyReference.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal.resources
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.GenerateResource.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfoInputs.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfo.cs
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.exe
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.deps.json
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.json
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.dev.json
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.pdb
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.pdb
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CopyComplete
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.pdb
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.genruntimeconfig.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormNuevaAtencion.resources
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal2.resources
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Login.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.exe
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.deps.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.dev.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Core.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Identity.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.AssemblyReference.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormNuevaAtencion.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal2.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Login.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.GenerateResource.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfoInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfo.cs
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CoreCompileInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.genruntimeconfig.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Transacciones.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.exe
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.deps.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.dev.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Core.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Identity.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.AssemblyReference.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormNuevaAtencion.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal2.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Login.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Transacciones.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.GenerateResource.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfoInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfo.cs
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CoreCompileInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.genruntimeconfig.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CopyComplete
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormNuevaAtencion.resources
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal.resources
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal2.resources
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Login.resources
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Transacciones.resources
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.GenerateResource.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfo.cs
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.pdb
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.exe
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.deps.json
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.json
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.dev.json
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.pdb
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.pdb
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.Properties.Resources.resources
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CopyComplete
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.exe
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.deps.json
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.json
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.dev.json
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.pdb
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.pdb
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.AssemblyReference.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormNuevaAtencion.resources
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal.resources
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal2.resources
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Login.resources
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Transacciones.resources
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.Properties.Resources.resources
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.GenerateResource.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CopyComplete
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.pdb
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.genruntimeconfig.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.exe
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.deps.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.dev.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Core.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Identity.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.AssemblyReference.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormNuevaAtencion.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal2.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Login.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Transacciones.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.Properties.Resources.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.GenerateResource.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfoInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfo.cs
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CoreCompileInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.genruntimeconfig.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormBajaLogica.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.AssemblyReference.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.exe
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.deps.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.dev.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Core.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Identity.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.AssemblyReference.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormBajaLogica.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormNuevaAtencion.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal2.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Login.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Transacciones.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.Properties.Resources.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.GenerateResource.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfoInputs.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfo.cs
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CoreCompileInputs.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.genruntimeconfig.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\SqlServerTypes\x64\msvcr120.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\SqlServerTypes\x86\msvcr120.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.ReportViewer.Common.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.ReportViewer.NETCore.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Reportes.exe
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Reportes.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Reportes.exe.config
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CopyComplete
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\SqlServerTypes\x64\msvcr120.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\SqlServerTypes\x86\msvcr120.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.exe
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.deps.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.runtimeconfig.dev.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\VeterinariaFrontend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Core.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Azure.Identity.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.ReportViewer.Common.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.ReportViewer.NETCore.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Reportes.exe
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Reportes.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Reportes.exe.config
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\Veterinaria Backend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\bin\Debug\net5.0-windows\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.AssemblyReference.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormBajaLogica.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormNuevaAtencion.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.FormPrincipal2.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Login.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.presentacion.Transacciones.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.Properties.Resources.resources
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.GenerateResource.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfoInputs.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.AssemblyInfo.cs
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.csproj.CoreCompileInputs.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\ref\VeterinariaFrontend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI3\VeterinariaTPI\VeterinariaFrontend\obj\Debug\net5.0-windows\VeterinariaFrontend.genruntimeconfig.cache

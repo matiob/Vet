@@ -1,0 +1,432 @@
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.exe
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.deps.json
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.json
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.dev.json
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\ref\VeterinariaWebAPI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.pdb
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.pdb
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.AssemblyReference.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfoInputs.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfo.cs
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.xml
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\scopedcss\bundle\VeterinariaWebAPI.styles.css
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CopyComplete
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\ref\VeterinariaWebAPI.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.pdb
+C:\Users\Joaquin\source\repos\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.genruntimeconfig.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.exe
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.deps.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.dev.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\ref\VeterinariaWebAPI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Core.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Identity.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.AssemblyReference.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfoInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfo.cs
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CoreCompileInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.Manifest.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.xml
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\scopedcss\bundle\VeterinariaWebAPI.styles.css
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.RazorTargetAssemblyInfo.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CopyComplete
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\ref\VeterinariaWebAPI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.0\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.genruntimeconfig.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.exe
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.deps.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.dev.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\ref\VeterinariaWebAPI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Core.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Identity.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.AssemblyReference.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfoInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfo.cs
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CoreCompileInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.Manifest.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.xml
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\scopedcss\bundle\VeterinariaWebAPI.styles.css
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.RazorTargetAssemblyInfo.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CopyComplete
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\ref\VeterinariaWebAPI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.1 joaquin base\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.genruntimeconfig.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.StaticWebAssets.xml
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.exe
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.deps.json
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.json
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.dev.json
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\ref\VeterinariaWebAPI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.pdb
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.pdb
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfo.cs
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\scopedcss\bundle\VeterinariaWebAPI.styles.css
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CopyComplete
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\ref\VeterinariaWebAPI.dll
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.pdb
+C:\Users\PC\Documents\TUP UTN\Programacion 2\TP\VeterinariaTPI1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.AssemblyReference.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\ref\VeterinariaWebAPI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.pdb
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.exe
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.deps.json
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.json
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.dev.json
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\ref\VeterinariaWebAPI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.pdb
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.dll
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.pdb
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.xml
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\scopedcss\bundle\VeterinariaWebAPI.styles.css
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CopyComplete
+C:\Users\Joaquin\Desktop\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.genruntimeconfig.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.exe
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.deps.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.dev.json
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\ref\VeterinariaWebAPI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Core.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Identity.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.AssemblyReference.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfoInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfo.cs
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CoreCompileInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.Manifest.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.xml
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\scopedcss\bundle\VeterinariaWebAPI.styles.css
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.RazorTargetAssemblyInfo.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CopyComplete
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\ref\VeterinariaWebAPI.dll
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Entrega final programacion\Entrega 1.2\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.genruntimeconfig.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.exe
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.deps.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.dev.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\ref\VeterinariaWebAPI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Core.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Identity.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.AssemblyReference.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfoInputs.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfo.cs
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CoreCompileInputs.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.Manifest.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.xml
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\scopedcss\bundle\VeterinariaWebAPI.styles.css
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.RazorTargetAssemblyInfo.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CopyComplete
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\ref\VeterinariaWebAPI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.genruntimeconfig.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\appsettings.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.exe
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.deps.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.runtimeconfig.dev.json
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\ref\VeterinariaWebAPI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\VeterinariaWebAPI.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Core.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Azure.Identity.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\bin\Debug\net5.0\Veterinaria Backend.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.AssemblyReference.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfoInputs.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.AssemblyInfo.cs
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CoreCompileInputs.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.Manifest.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\staticwebassets\VeterinariaWebAPI.StaticWebAssets.xml
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\scopedcss\bundle\VeterinariaWebAPI.styles.css
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.RazorTargetAssemblyInfo.cache
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.csproj.CopyComplete
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\ref\VeterinariaWebAPI.dll
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.pdb
+E:\Proyecto FINAL PII\VeterinariaTPI1.6v2\VeterinariaTPI1.6\VeterinariaTPI\VeterinariaWebAPI\obj\Debug\net5.0\VeterinariaWebAPI.genruntimeconfig.cache

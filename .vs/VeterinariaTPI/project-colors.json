@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b644b689-12df-4b4c-9780-e9a87778965d": {
+      "ProjectGuid": "b644b689-12df-4b4c-9780-e9a87778965d",
+      "DisplayName": "VeterinariaFrontend",
+      "ColorIndex": 0
+    },
+    "be239a22-9912-499d-b164-851d696744ba": {
+      "ProjectGuid": "be239a22-9912-499d-b164-851d696744ba",
+      "DisplayName": "Veterinaria Backend",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
