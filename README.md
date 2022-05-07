@@ -14,12 +14,10 @@ Desktop application for CRUD operations of a veterinary clinic.
 
 ### Features
 
-- Search and list courses.
-- View the details of a courses.
+- Search and list pets.
+- View the details of a treatments.
 - Create users.
-- _Login_ and _logout_ users.
-- Add a course to a favorites list.
-- View a list of my courses.
-- Differentiate the _front-end_ paths for movies and TV shows.
-- Search courses.
-- Keep session open before closing the _browser_ or `refresh`.
+- _Login_ and _logout_ admin.
+- Add a pet to a database.
+- View a list of my treatments.
+- Search pets.
